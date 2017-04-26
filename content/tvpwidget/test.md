@@ -5,5 +5,6 @@
     "channelId": "7645129",
     "layout": "bootstrap",
     "ima": false,
-    "autoplay": true
+    "autoplay": true,
+    "autonext": false
 }
