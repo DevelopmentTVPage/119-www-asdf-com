@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "safdgn"
+baseURL = "https:\/\/www.asdf.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758403"
+subfolder = ""
