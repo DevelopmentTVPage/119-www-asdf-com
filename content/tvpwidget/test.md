@@ -2,7 +2,7 @@
     "type": "solo",
     "title": "test",
     "name": "test",
-    "channelId": "66220501",
+    "channelId": "7645129",
     "layout": "bootstrap",
     "ima": false,
     "autoplay": true
