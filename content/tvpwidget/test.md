@@ -4,7 +4,7 @@
     "name": "test",
     "channelId": "7645129",
     "layout": "bootstrap",
-    "ima": true,
+    "ima": false,
     "autoplay": false,
     "autonext": false
 }
