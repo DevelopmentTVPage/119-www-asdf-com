@@ -1,6 +1,6 @@
 {
     "type": "solo",
-    "title": "test",
+    "title": "testasfsdfsf",
     "name": "test",
     "channelId": "7645129",
     "layout": "bootstrap",
