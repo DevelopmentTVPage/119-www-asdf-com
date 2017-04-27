@@ -10,7 +10,7 @@
     "serverurl": "asdfsf",
     "ads": {
         "ima": {
-            "serverUrl": "asdfsda"
+            "enabled": false
         }
     }
 }
