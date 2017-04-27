@@ -2,6 +2,6 @@
     "type": "sidebar",
     "title": "ty",
     "name": "ty",
-    "channelId": "",
+    "channelId": "7645129",
     "layout": "bootstrap"
 }
