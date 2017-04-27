@@ -1,7 +1,7 @@
 {
     "ads": {
         "ima": {
-            "serverUrl": "ddd"
+            "serverUrl": "ss"
         }
     },
     "type": "solo",
@@ -11,6 +11,6 @@
     "layout": "bootstrap",
     "ima": true,
     "autoplay": true,
-    "autonext": false,
+    "autonext": true,
     "serverurl": "asdfsf"
 }
