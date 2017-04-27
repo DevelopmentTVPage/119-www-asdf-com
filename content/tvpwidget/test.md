@@ -10,7 +10,7 @@
     "channelId": "7645129",
     "layout": "bootstrap",
     "ima": true,
-    "autoplay": false,
+    "autoplay": true,
     "autonext": false,
     "serverurl": "asdfsf"
 }
