@@ -1,8 +1,8 @@
 {
     "ads": {
         "ima": {
-            "serverUrl": "asdfafasdfsafdsafsaffd",
-            "enabled": true
+            "serverUrl": "s",
+            "enabled": false
         }
     },
     "type": "solo",
