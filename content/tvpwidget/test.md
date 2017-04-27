@@ -1,7 +1,7 @@
 {
     "ads": {
         "ima": {
-            "serverUrl": "dsf"
+            "serverUrl": ""
         }
     },
     "type": "solo",
