@@ -11,6 +11,6 @@
     "layout": "bootstrap",
     "ima": true,
     "autoplay": true,
-    "autonext": true,
+    "autonext": false,
     "serverurl": "asdfsf"
 }
