@@ -1,7 +1,7 @@
 {
     "ads": {
         "ima": {
-            "serverUrl": ""
+            "enabled": true
         }
     },
     "type": "solo",
