@@ -6,5 +6,6 @@
     "layout": "bootstrap",
     "ima": true,
     "autoplay": false,
-    "autonext": false
+    "autonext": false,
+    "serverurl": "asdfsf"
 }
