@@ -7,5 +7,10 @@
     "ima": true,
     "autoplay": false,
     "autonext": false,
-    "serverurl": "asdfsf"
+    "serverurl": "asdfsf",
+    "ads": {
+        "ima": {
+            "serverUrl": "gergfd"
+        }
+    }
 }
