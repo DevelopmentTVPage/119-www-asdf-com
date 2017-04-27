@@ -1,7 +1,7 @@
 {
     "ads": {
         "ima": {
-            "enabled": true
+            "enabled": false
         }
     },
     "type": "solo",
