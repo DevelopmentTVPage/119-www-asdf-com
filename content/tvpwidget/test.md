@@ -1,4 +1,9 @@
 {
+    "ads": {
+        "ima": {
+            "serverUrl": "dsf"
+        }
+    },
     "type": "solo",
     "title": "testasfsdfsf",
     "name": "test",
@@ -7,10 +12,5 @@
     "ima": true,
     "autoplay": false,
     "autonext": false,
-    "serverurl": "asdfsf",
-    "ads": {
-        "ima": {
-            "enabled": false
-        }
-    }
+    "serverurl": "asdfsf"
 }
